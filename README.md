@@ -47,4 +47,5 @@
 
 ### 📊 Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=gibirizon&show_icons=true&locale=en&layout=compact&theme=dark)
+[![GitHub Streak](https://streak-stats.demolab.com?user=neogib&theme=tokyonight)](https://git.io/streak-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=neogib&show_icons=true&locale=en&layout=compact&theme=dark)
