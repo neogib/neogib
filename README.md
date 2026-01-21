@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Wojtek</h1>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&color=00A5FF&lines=Passionate+Developer+from+Poland;Always+Learning+Something+New)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&color=00A5FF&lines=A+passionate+developer+from+Poland;Always+learning+something+new)](https://git.io/typing-svg)
 
 ---
 
@@ -38,8 +38,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=flask" height="40" alt="flask logo"  />
-  <img width="12" />
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/neovim/neovim-original.svg" height="40" alt="neovim logo" />
 </div>
 
@@ -47,6 +45,6 @@
 
 ### 📊 Stats
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=neogib&theme=tokyonight)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=neogib&theme=tokyonight)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=neogib)](https://github.com/Pranesh-2005/github-readme-stats)
