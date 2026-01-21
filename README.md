@@ -45,6 +45,6 @@
 
 ### 📊 Stats
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=neogib&theme=tokyonight)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=neogib&show_icons=true&theme=dark)](https://github.com/Pranesh-2005/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=neogib)](https://github.com/Pranesh-2005/github-readme-stats)
+<!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=neogib&theme=dark)](https://git.io/streak-stats) -->
