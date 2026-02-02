@@ -1,9 +1,6 @@
-<h1 align="center">Hi 👋, I'm Wojtek</h1>
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&color=00A5FF&lines=Developer+from+Poland;Learning+through+practice" />
-  </a>
-</p>
+<h1>Hi 👋, I'm Wojtek</h1>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&color=00A5FF&lines=Developer+from+Poland;Learning+through+practice)](https://git.io/typing-svg)
 
 ---
 
